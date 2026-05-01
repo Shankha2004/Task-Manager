@@ -1,7 +1,7 @@
-📝 To-Do List Web App
+#📝 To-Do List Web App
 
 
-📌 Project Explanation
+##📌 Project Explanation
 
 This is a simple To-Do List web application where users can:
 
@@ -11,7 +11,7 @@ Edit existing tasks
 
 Delete tasks
 
-⚙️ Tech Stack Used
+##⚙️ Tech Stack Used
 
 HTML → Structure of the webpage
 
@@ -19,7 +19,7 @@ CSS → Styling and layout
 
 JavaScript → Functionality (add, edit, delete tasks)
 
-▶️ How to Run the Project
+##▶️ How to Run the Project
 
 Download or clone the project files
 
@@ -31,7 +31,7 @@ Double-click the index.html file
 
 That’s it — the app will run in your browser 
 
-✨ Features
+##✨ Features
 
 Add task
 
