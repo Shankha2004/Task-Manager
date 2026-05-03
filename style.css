@@ -128,3 +128,11 @@ left: 20px;
   border: 1px solid #ccc;
 }
 
+#cleartasks {
+  padding: 10px 15px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}

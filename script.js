@@ -74,3 +74,13 @@ function addtask(){
 
     inputbox.value = "";
 }
+
+function cleartasks() {
+    const tasks = document.querySelectorAll(".task-item");
+    tasks.forEach(task => {
+        const checkbox = task.querySelector(".complete-checkbox");
+        if (checkbox && checkbox.checked) {
+            task.remove();
+        }
+    });
+}
